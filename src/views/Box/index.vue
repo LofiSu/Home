@@ -22,6 +22,7 @@
     </transition>
     <div class="content">
       <!-- 可在此处自定义任意内容 -->
+       Hi!~ 欢迎来到酥酥的小屋~
       <TimeCapsule />
       <MoreContent />
     </div>
